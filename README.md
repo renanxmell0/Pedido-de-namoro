@@ -47,7 +47,7 @@ Além disso, o site também foi utilizado como uma **brincadeira criativa** para
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/renanmell0/Pedido-de-namoro.git
+   git clone https://github.com/renanxmell0/Pedido-de-namoro
 
 2. Abra o arquivo index.html em qualquer navegador.
 
