@@ -47,4 +47,16 @@ Além disso, o site também foi utilizado como uma **brincadeira criativa** para
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/renanmell0/seu-repositorio.git
+   git clone https://github.com/renanmell0/Pedido-de-namoro.git
+
+2. Abra o arquivo index.html em qualquer navegador.
+
+## 👤 Autor
+
+Projeto desenvolvido por **Renan Mello**
+
+Estudante de **Sistemas de Informação**
+
+## ❤️ Observação Final
+
+Este projeto não tem fins comerciais e foi criado apenas para estudo, prática e diversão.
